@@ -7,6 +7,6 @@ def run_guessing_game
   elsif input == guess
     puts "You guessed the correct number!"
   else
-    puts "Sorry! The computer guessed ${guess}".
+    puts "Sorry! The computer guessed ${guess}."
   end
 end
